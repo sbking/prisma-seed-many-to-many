@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+.idea
+package-lock.json
+.vscode/
+dev.db
+dev.db-journal
+.env
+migrations/
